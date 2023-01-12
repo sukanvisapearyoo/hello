@@ -1,0 +1,3 @@
+#ignore files i did not create
+composer.lock
+vendor/
